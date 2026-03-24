@@ -1,4 +1,3 @@
-# 2603_predictive_model_students_dropout```markdown
 # 🎓 Student Dropout Prediction (2024)
 
 ## 📌 Project Overview
@@ -8,6 +7,17 @@ The project combines exploratory data analysis (EDA) and predictive modeling to 
 
 ---
 
+
+## ⚙️ Technologies Used
+- **SQL**
+- **Python**
+- Kaggel
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook  
+
 ## 🤖 Machine Learning Models
 
 The following models were implemented and evaluated:
@@ -16,6 +26,8 @@ The following models were implemented and evaluated:
 - Decision Tree Classifier
 - Random Forest Classifier
 - Gradient Boosting Classifier
-
-### 📦 Tools Used
-SQL | Python | Kaggel | pandas | numpy | matplotlib | seaborn | sklearn
+- 
+## 🚀 How to Run
+```bash
+git clone https://github.com/jpcampos04/2603_predictive_model_students_dropout.git
+jupyter 2603_predictive_model_students_dropout.ipynb
